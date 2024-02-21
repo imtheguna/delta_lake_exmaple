@@ -1,0 +1,16 @@
+User_ID,Subscription_Type,Monthly_Revenue,Join_Date,Last_Payment_Date,Country,Age,Gender,Device,Plan_Duration
+1,Basic,10,2022-01-15,2023-06-10,United States,28,Male,Smartphone,1 Month
+2,Premium,15,2021-09-05,2023-06-22,Canada,35,Female,Tablet,1 Month
+3,Standard,12,2022-07-10,2023-06-26,Australia,51,Female,Laptop,1 Month
+4,Basic,10,2023-05-01,2023-06-28,Germany,33,Male,Smartphone,1 Month
+5,Premium,15,2022-03-18,2023-06-27,France,29,Female,Smart TV,1 Month
+6,Basic,10,2022-01-15,2023-06-10,United States,28,Male,Smartphone,1 Month
+7,Premium,15,2021-09-05,2023-06-22,Canada,35,Female,Tablet,1 Month
+8,Standard,12,2022-07-10,2023-06-26,Australia,51,Female,Laptop,1 Month
+9,Basic,10,2023-05-01,2023-06-28,Germany,33,Male,Smartphone,1 Month
+10,Premium,15,2022-03-18,2023-06-27,France,29,Female,Smart TV,1 Month
+11,Basic,10,2022-01-15,2023-06-10,United States,28,Male,Smartphone,1 Month
+12,Premium,15,2021-09-05,2023-06-22,Canada,35,Female,Tablet,1 Month
+13,Standard,12,2022-07-10,2023-06-26,Australia,51,Female,Laptop,1 Month
+14,Basic,10,2023-05-01,2023-06-28,Germany,33,Male,Smartphone,1 Month
+15,Premium,15,2022-03-18,2023-06-27,France,29,Female,Smart TV,1 Month
